@@ -1,0 +1,12 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "65452589",
+      "database": "corn_store",
+      "host": "localhost",
+      "dialect": "postgres",
+      "autoLoadModels": true,
+      "synchronize": true
+    }
+  }
+  

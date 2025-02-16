@@ -1,0 +1,15 @@
+# compiled output
+/corner-buyer-api/dist
+/corner-buyer-api/node_modules
+/corner-buyer-api/build
+
+/corn_buyer/dist
+/corn_buyer/node_modules
+/corn_buyer/build
+
+# Tests
+/corner-buyer-api/coverage
+/corner-buyer-api/.nyc_output
+
+# IDEs and editors
+/corner-buyer-api/.idea

@@ -1,0 +1,28 @@
+{
+  "node": {
+    "7fa9d08d3ea65593e074715cb698568324eac6296c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/rateLimiter.service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/services/cornStore.service.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "7fd6d2485f5843e6e71b0c98e977b39683dd22e31a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/rateLimiter.service.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/services/cornStore.service.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Q7OLUORIqLVPjLlMssAM+pK1C63vWGK26Lo5feEc9MQ="
+}
